@@ -127,6 +127,8 @@ main section {
   text-align: center;
 }
 
+
+/* skills related styles */
 #what-i-do-description {
   padding: 30px 150px;
 }
@@ -144,4 +146,11 @@ main section {
 
 .skill-description {
   color: #757575;
+}
+
+/* Resume section styles */
+.resume-column-title {
+  color: #474747;
+  font-size: 30px;
+  font-weight: 700;
 }
